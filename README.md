@@ -2,7 +2,7 @@
 
 ![SSPanel_Auto_Checkin](https://github.com/isecret/sspanel-autocheckin/workflows/SSPanel_Auto_Checkin/badge.svg)
 
-<details>1
+<details>
    <summary>目录</summary>
 1
 - [SSPanel 自动签到 V2.0 支持多站点多用户](#sspanel-自动签到-v20-支持多站点多用户)
