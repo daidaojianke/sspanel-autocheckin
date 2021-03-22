@@ -12,7 +12,7 @@ on:
             - started
 
 env:
-    TZ: Asia/Shanghai
+    TZ: Asia/Hong_Kong
     USERS: ${{secrets.USERS}}
     PUSH_KEY: ${{secrets.PUSH_KEY}}
     PUSH_TURBO_KEY: ${{secrets.PUSH_TURBO_KEY}}
